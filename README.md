@@ -4,5 +4,7 @@ I'm a frontend developer, and currently learning rust
 
 ---
 
-![Barra's Github Stats](https://github-readme-stats.vercel.app/api?username=barraIhsan&show_icons=true&theme=transparent)
-![Barra's Streak Stats](https://streak-stats.demolab.com/?user=barraIhsan&theme=transparent&date_format=j%20M%5B%20Y%5D&mode=weekly)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=barraIhsan&show_icons=true&theme=transparent" height="160" alt="github stats">
+  <img src="https://streak-stats.demolab.com/?user=barraIhsan&theme=transparent&date_format=j%20M%5B%20Y%5D&mode=weekly" height="160" alt="streak stats">
+</div>
