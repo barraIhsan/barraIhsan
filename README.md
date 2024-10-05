@@ -1,6 +1,8 @@
 # Hi! I'm Barra 👋
 
-I'm a frontend developer, and currently learning rust
+I'm a Front-End developer, currently interested at making useful website and CLI tools using Rust.
+
+For more information, you can visit [my portfolio website](https://barraIhsan.github.io)
 
 ---
 
